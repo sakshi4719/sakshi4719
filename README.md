@@ -1,6 +1,8 @@
 ## Hi there 👋 welcome to my Github! 
 ### I'm a Computer Engineering student with a strong foundation in Data Science and Machine Learning. I have consistently had a CGPA of 9+ throughout my time at college.
 
+![code](https://github.com/user-attachments/assets/afa6a1db-541f-4e47-95f7-ed2960ee87cb)
+
 <!--
 **sakshi4719/sakshi4719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
